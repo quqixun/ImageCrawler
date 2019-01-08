@@ -33,7 +33,7 @@ cd src
 python panda.py
 ```
 
-# 3. Explaination
+## 3. Explaination
 
 - **ImageCrawler**: obtain HTTP path of desired images;
 - **ImageDownloader**: download images to local directory.
