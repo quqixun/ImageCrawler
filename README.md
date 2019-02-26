@@ -16,7 +16,7 @@ source activate crawler
 Find and download the driver of the browser you use.  
 https://www.seleniumhq.org/download/
 
-**1.3** Add the driver's path to ***SYSTEM PATH***.
+**1.3** Add the driver's folder's path to ***SYSTEM PATH***.
 
 ## 2. Get Code
 
